@@ -96,14 +96,3 @@ ClearSpace/
 ClearSpaceWidget/  ClearSpaceWidget.swift  Info.plist  Assets.xcassets
 ```
 
-## 2 to 3 minute demo script
-- 0:00 Introduce: "ClearSpace is an on-device iPhone storage cleaner. No server, no account, nothing leaves the phone."
-- 0:15 Dashboard: show the ring and free/used/total, point to category cards.
-- 0:35 Screenshots: select a few, tap Review. Point out "Will be removed", the list, counts and estimated space.
-  Confirm and show the iOS prompt and the **Space Freed** screen.
-- 1:05 Large Videos: show the largest-first list and preview one. Mention compression keeps the original.
-- 1:25 Similar Photos: run a scan, show a group with the Keep badge and sensitivity control.
-- 1:50 Duplicate Contacts: show a group and why it matched, delete only the duplicate through Review.
-- 2:10 Bonus tour: Swipe Cleanup, Private Vault with Face ID, Calendar Cleanup.
-- 2:35 Widget on the Home Screen and Cleanup Summary.
-- 2:50 Close: mention permissions handling, the review-before-delete rule, and the honest limitations above.
