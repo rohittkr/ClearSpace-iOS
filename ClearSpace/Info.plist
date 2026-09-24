@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>ClearSpace</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>ClearSpace reads your calendar events on this device to find old events you may want to remove. Events are only deleted after you confirm.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>ClearSpace reads your calendar events on this device to find old events you may want to remove. Events are only deleted after you confirm.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>ClearSpace reads your contacts on this device to find duplicates. A contact is only deleted after you review it and confirm.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>ClearSpace uses Face ID to keep your Private Vault locked.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>ClearSpace saves compressed copies of videos and restores photos from your Private Vault to your photo library.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>ClearSpace scans your photo library on this device to find similar photos, screenshots and large videos so you can review and remove them. Nothing leaves your iPhone.</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+	</dict>
+	<key>UILaunchScreen</key>
+	<dict/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
